@@ -1,0 +1,6 @@
+{
+  "name": "Head-up display",
+  "resolveAlias": "hud",
+  "author": "Florian Biewald",
+  "canvasViews": ["components/HeadUpDisplay"]
+}
